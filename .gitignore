@@ -1,3 +1,8 @@
+.idea/
+SierpinskisTriangle.iml
+out/
+lib/
+src/
 # Compiled class file
 *.class
 
