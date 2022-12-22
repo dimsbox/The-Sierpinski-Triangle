@@ -6,7 +6,7 @@ import javafx.scene.shape.Circle;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import java.util.Random;
-import static javafx.application.Application.launch;
+//import static javafx.application.Application.launch;
 
 public class Main extends Application {
 
